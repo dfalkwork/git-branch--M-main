@@ -1,0 +1,11 @@
+﻿.button-tooltip{
+    z-index: 100;
+    width: 14px;
+    background: transparent;
+    border: transparent;
+    cursor: pointer;
+}
+
+.right-14{
+    right: 14px;
+}

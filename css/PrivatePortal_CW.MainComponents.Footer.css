@@ -1,0 +1,16 @@
+﻿.footer-link-icons.ThemeGrid_MarginGutter{
+    margin-left: 0px !important;
+}
+
+[data-block="Common.Footer"] [data-block="Adaptive.Columns2"] .display-flex.align-items-center:not(.justify-content-flex-end){
+    padding-right: 0px;
+}
+
+[data-block="Common.Footer"] [data-block="Adaptive.Columns2"] .columns.gutter-base > .columns-item{
+    padding: 0px;
+}
+
+[data-block="Common.Footer"] [data-block="Adaptive.Columns2"] .columns.gutter-base{
+    margin-left: 0px;
+    margin-right: 0px;
+}
